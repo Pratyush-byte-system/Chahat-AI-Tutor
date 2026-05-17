@@ -1,0 +1,6 @@
+numpy
+sounddevice
+websockets
+requests
+beautifulsoup4
+fpdf2
